@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - men
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 926273785
+    locked: 0
+  - name: head
+    uniqueID: 289837901
+    locked: 0
+  - name: car
+    uniqueID: 701367033
+    locked: 0
+  - name: f-bike-tire
+    uniqueID: 2104765949
+    locked: 0
+  - name: b-bike-tire
+    uniqueID: 3819643497
+    locked: 0
+  - name: ramp3
+    uniqueID: 1023908507
+    locked: 0
+  - name: ramp2
+    uniqueID: 2498248629
+    locked: 0
+  - name: ramp1
+    uniqueID: 3107563333
+    locked: 0
+  - name: gas
+    uniqueID: 3807887417
+    locked: 0
+  - name: dich
+    uniqueID: 1737604843
+    locked: 0
+  - name: back
+    uniqueID: 1466352371
+    locked: 0
